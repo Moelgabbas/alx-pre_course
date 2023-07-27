@@ -1,2 +1,1 @@
-My first readme
-^C
+readme for 0x01-git
